@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Tlelima Justice Hlalele.<br>🌟 I'm a passionate developer with expertise in React, TypeScript, and front-end development.  <br>🎓 .  <br>💻 I love building user-friendly and responsive web applications.  <br>🔍 Check out my repositories to see some of my projects and collaborations!  <br>🚀 Always learning and excited about new technologies.  <br>
+👋 Hi, I’m Tlelima Justice Hlalele.<br>🌟 I'm a passionate developer with expertise in React, TypeScript, and front-end development.  <br>🎓Doing Bsc Computer Science at National University of Lesotho .  <br>💻 I love building user-friendly and responsive web applications.  <br>🔍 Check out my repositories to see some of my projects and collaborations!  <br>🚀 Always learning and excited about new technologies.  <br>
 
 
 ## 🌐 Socials:
